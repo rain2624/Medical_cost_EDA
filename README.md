@@ -1,4 +1,4 @@
-# Medical_cost_EDA
+# Insurance data EDA
 This project involves Exploratory Data Analysis of Insurance Cost data.
 The dataset is avalable on kaggle (Medical Cost Personal) - https://www.kaggle.com/datasets/mirichoi0218/insurance
 This dataset consist of the following columns
